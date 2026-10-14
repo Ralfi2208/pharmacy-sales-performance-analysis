@@ -10,13 +10,13 @@ An interactive multi-page Power BI dashboard designed for executive reporting in
 ![Executive Overview](executive-overview.png)
 
 ### 2. Sales & Product Performance
-![Sales & Product Performance](Sales&Product Performance.png)
+![Sales & Product Performance](Sales&Product%20Performance.png)
 
 ### 3. Geographic & Distribution Analysis
-![Geographic & Distribution Analysis](Geographic&Distribution Analysis.png)
+![Geographic & Distribution Analysis](Geographic&Distribution%20Analysis.png)
 
 ### 4. Financial & Operational Performance
-![Financial & Operational Performance](Financial&Operational Performance.png)
+![Financial & Operational Performance](Financial&Operational%20Performance.png)
 
 ---
 
