@@ -16,7 +16,7 @@ An interactive multi-page Power BI dashboard designed for executive reporting in
 ![Geographic & Distribution Analysis](Geographic&Distribution%20Analysis.png)
 
 ### 4. Financial & Operational Performance
-![Financial & Operational Performance](Financial&Operational%20Performance.png)
+![Financial & Operational Performance](Financial&Operationnal%20Performance.png)
 
 ---
 
